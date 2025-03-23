@@ -23,7 +23,7 @@ A **Flutter-based timetable app** designed to help users manage their daily sche
 
 ## Screenshots
 
-| ![Input Page](screenshots/input.png) | ![Display Page](screenshots/display.png) |
+| ![Input Page](screenshots/input.png) | ![Display Page](screenshots/time.png) |
 |--------------------------------------|------------------------------------------|
 | **Input Page**                       | **Display Page**                         |
 
